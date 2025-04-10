@@ -2,7 +2,7 @@
 public class Bank_management_system {
 	
 	String Accounts;
-//	list<BankAccount> accounts;
+	list<BankAccount> accounts;
 	String accounts[];
 
 
